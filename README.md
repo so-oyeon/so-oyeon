@@ -9,40 +9,54 @@
 
 <!-- 백준 end -->
 
-<!-- light mode start -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=so-oyoen&theme=buefy&icon_color=FFC700#gh-light-mode-only)](https://github.com/so-oyoen/so-oyoen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy&icon_color=FFC700#gh-light-mode-only)](https://github.com/so-oyoen/so-oyoen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=Algorithm&theme=buefy&icon_color=FFC700#gh-light-mode-only)](https://github.com/so-oyoen/Algorithm)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-oyoen&layout=donut&show_icons=true&theme=buefy&icon_color=FFC700&count_private=true&exclude_repo=Face-Transfer-Application#gh-light-mode-only" width=38% />
-</a>  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=so-oyoen&show_icons=true&theme=buefy&icon_color=FFC700&count_private=true#gh-light-mode-only" width=56% />
+<!-- mode start -->
+
+<a href="https://github.com/so-oyoen/so-oyoen">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
+        <img src= "https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=so-oyoen&theme=buefy&icon_color=FFC700" />
+    </picture>
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=so-oyoen&theme=nightowl&line=7957d5&color=7957d5&title_color=7957d5&bg_color=fff#gh-light-mode-only" width=94%/>
+<a href="https://github.com/so-oyoen/so-oyoen">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
+        <img src= "https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy&icon_color=FFC700" />
+    </picture>
+</a>
+<a href="https://github.com/so-oyoen/Algorithm">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
+        <img src= "https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=Algorithm&theme=buefy&icon_color=FFC700" />
+    </picture>
 </a>
 
-<!-- #gh-light-mode-only -->
-<!-- light mode end -->
 
-<!-- dark mode start -->
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff)](https://github.com/so-oyoen/so-oyoen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff)](https://github.com/so-oyoen/so-oyoen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff)](https://github.com/so-oyoen/so-oyoen)
 
 <hr/>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-oyoen&layout=donut&show_icons=true&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff&count_private=true&exclude_repo=Face-Transfer-Application#gh-dark-mode-only" width=38% />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=so-oyoen&layout=donut&show_icons=true&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff&count_private=true&exclude_repo=Face-Transfer-Application" width=38%>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-oyoen&layout=donut&show_icons=true&theme=buefy&icon_color=FFC700&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    </picture>
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=so-oyoen&show_icons=true&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff&count_private=true#gh-dark-mode-only" width=56% />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=so-oyoen&show_icons=true&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff&count_private=true" width=56% />
+        <img src="https://github-readme-stats.vercel.app/api?username=so-oyoen&show_icons=true&theme=buefy&icon_color=FFC700&count_private=true" width=56% />
+    </picture>
+
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=so-oyoen&theme=nightowl&bg_color=20232a&hide_border=true&line=fff#gh-dark-mode-only" width=94%/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=so-oyoen&theme=nightowl&bg_color=20232a&hide_border=true&line=fff" width=94%/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=so-oyoen&theme=nightowl&line=7957d5&color=7957d5&title_color=7957d5&bg_color=fff" width=94%/>
+    </picture>
+
 </a>
-<!-- dark mode end -->
+
+<!-- mode end -->
 
 ## 🔨 Once I've used 🔨
 
