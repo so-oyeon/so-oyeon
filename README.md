@@ -9,18 +9,40 @@
 
 <!-- 백준 end -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=so-oyoen)](https://github.com/so-oyoen/so-oyoen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=Algorithm)](https://github.com/so-oyoen/Algorithm)
-
+<!-- light mode start -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=so-oyoen&theme=buefy&icon_color=FFC700#gh-light-mode-only)](https://github.com/so-oyoen/so-oyoen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy&icon_color=FFC700#gh-light-mode-only)](https://github.com/so-oyoen/so-oyoen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=Algorithm&theme=buefy&icon_color=FFC700#gh-light-mode-only)](https://github.com/so-oyoen/Algorithm)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-oyoen&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-oyoen&layout=donut&show_icons=true&theme=buefy&icon_color=FFC700&count_private=true&exclude_repo=Face-Transfer-Application#gh-light-mode-only" width=38% />
+</a>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=so-oyoen&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-stats.vercel.app/api?username=so-oyoen&show_icons=true&theme=buefy&icon_color=FFC700&count_private=true#gh-light-mode-only" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=so-oyoen&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=so-oyoen&theme=nightowl&line=7957d5&color=7957d5&title_color=7957d5&bg_color=fff#gh-light-mode-only" width=94%/>
 </a>
+
+<!-- #gh-light-mode-only -->
+<!-- light mode end -->
+
+<!-- dark mode start -->
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff)](https://github.com/so-oyoen/so-oyoen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff)](https://github.com/so-oyoen/so-oyoen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff)](https://github.com/so-oyoen/so-oyoen)
+
+<hr/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-oyoen&layout=donut&show_icons=true&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff&count_private=true&exclude_repo=Face-Transfer-Application#gh-dark-mode-only" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=so-oyoen&show_icons=true&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff&count_private=true#gh-dark-mode-only" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=so-oyoen&theme=nightowl&bg_color=20232a&hide_border=true&line=fff#gh-dark-mode-only" width=94%/>
+</a>
+<!-- dark mode end -->
 
 ## 🔨 Once I've used 🔨
 
