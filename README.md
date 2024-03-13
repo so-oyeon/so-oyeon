@@ -7,7 +7,6 @@
 <!-- 백준 start-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0v0_tot)](https://solved.ac/0v0_tot/)
-
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=0v0_tot&theme=dark)
 <img src="http://mazandi.herokuapp.com/api?handle=0v0_tot&theme=dark"/>
 
