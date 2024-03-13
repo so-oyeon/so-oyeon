@@ -2,14 +2,15 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=so-oyoen)](https://github.com/so-oyoen/so-oyoen)
-
 <!-- 백준 start-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0v0_tot)](https://solved.ac/0v0_tot/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=0v0_tot&theme=dark)
 
 <!-- 백준 end -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=so-oyoen)](https://github.com/so-oyoen/so-oyoen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so-oyoen&repo=Algorithm)](https://github.com/so-oyoen/Algorithm)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-oyoen&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
