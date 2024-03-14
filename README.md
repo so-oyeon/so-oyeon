@@ -13,7 +13,7 @@
 
 <a href="https://github.com/so-oyeon/so-oyeon">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=so-oyeon&repo=so-oyeon&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
         <img src= "https://github-readme-stats.vercel.app/api/pin/?username=so-oyeon&repo=so-oyeon&theme=buefy&icon_color=FFC700" />
     </picture>
 </a>
@@ -25,7 +25,7 @@
 </a>
 <a href="https://github.com/so-oyeon/Algorithm">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=so-oyeon&repo=Algorithm&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
         <img src= "https://github-readme-stats.vercel.app/api/pin/?username=so-oyeon&repo=Algorithm&theme=buefy&icon_color=FFC700" />
     </picture>
 </a>
